@@ -1,4 +1,4 @@
-# 🚀 Olá, eu sou [Ronald]
+# 🚀 Olá, eu sou Ronald
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
