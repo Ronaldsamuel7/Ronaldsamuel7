@@ -2,7 +2,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 Tenho 15 anos
+🎓 Tenho 16 anos
 📚 Estudante do 2º ano do Ensino Médio
 🐍 Estudando Python
 💻 Futuro desenvolvedor de software
